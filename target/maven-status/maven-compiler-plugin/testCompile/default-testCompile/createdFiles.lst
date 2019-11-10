@@ -1,0 +1,7 @@
+tests\Planday\pageObjects\SignUpPageObjects.class
+tests\Planday\utilities\TextContext.class
+tests\Planday\stepDefinitions\SignUpStepDefinitions.class
+tests\Planday\stepDefinitions\Hooks.class
+tests\Planday\utilities\TestRunner.class
+tests\Planday\managers\PageObjectManager.class
+tests\Planday\managers\WebDriverManager.class

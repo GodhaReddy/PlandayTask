@@ -1,0 +1,5 @@
+22:11:26.276 [main] ERROR tests.Planday.stepDefinitions.SignUpStepDefinitions - No such element found on the webpage
+22:11:26.278 [main] INFO  tests.Planday.stepDefinitions.SignUpStepDefinitions - This is an imaginary field created for test purpose which is not on the webpage.
+22:12:17.748 [main] INFO  tests.Planday.stepDefinitions.SignUpStepDefinitions - martinjosephbakewell09@gmail.com
+22:12:19.945 [main] INFO  tests.Planday.stepDefinitions.SignUpStepDefinitions - tests678
+22:12:20.573 [main] ERROR tests.Planday.stepDefinitions.SignUpStepDefinitions - Unable to navigate to https://www.planday.com/uk/signup/signup/#/creating, rather redirected to some other page.
